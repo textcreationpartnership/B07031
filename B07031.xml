@@ -1,0 +1,237 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The blue garter no more a sign of honesty than a gilded bush is of good wine.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1713</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07031</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.2[238]</idno>
+            <idno type="EEBO-CITATION">99894229</idno>
+            <idno type="PROQUEST">ocm99894229</idno>
+            <idno type="VID">181560</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07031)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181560)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A1:1[241])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The blue garter no more a sign of honesty than a gilded bush is of good wine.</title>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed Newcomb in Wine-Court, Fleetstreet,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>1713.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "In antient times when Britain's warlike sons".</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Printed on one side of the leaf only.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Order of the Garter --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:181560:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 137 -->
+            <head>The Blue GARTER No more a ſign of Honeſty Than a Gilded BUSH IS OF Good WINE.</head>
+            <p>INgratitude being ſo common in the Age we at pre<g ref="char:EOLhyphen"/>ſent live in, it's no wonder if Princes meet with the ſame uſage that the Common People find, in being ſlighted by thoſe on whom they beſtow their moſt ſignal Favours. That ſuch has been the Fate of Princes of late Days is ſo apparent, that there needs no farther proof but an Inſpection into the Actions of ſome Great Men, to make it ſufficiently plain and Evident: Nor has the greateſt Honours could poſſibly be beſtow'd by a Gracious Princeſs have the power to Bind ſome Perſons to their ſteddy Duty and Allegiance: Some of which have even crept into the moſt Honourable <hi>Order of the Garter;</hi> the Original of which take as follows:</p>
+            <lg>
+               <pb n="2" facs="tcp:181560:2"/>
+               <!-- PDF PAGE 138 -->
+               <l>
+                  <seg rend="decorInit">I</seg>N Antient Times when <hi>Britain</hi>'s Warlike Sons</l>
+               <l>Half of the Univerſe had over-run,</l>
+               <l>And ev'ry Year, with Conqueſt fraught,</l>
+               <l>Freſh Lawrels to their Monarch brought;</l>
+               <l>Each Fortunate Auſpicious Day</l>
+               <l>New Victories did ſtill diſplay,</l>
+               <l>Conqueſt on <hi>England</hi> did ſeem to wait,</l>
+               <l>And Heav'n ſtill to ſmil'd upon their happy State:</l>
+               <l>Nothing but Pleaſure in the Court was found,</l>
+               <l>And Gaiety each blisful Moment crown'd,</l>
+               <l>
+                  <hi>Mars</hi>'s bold Sons ſtill in the charming Fair</l>
+               <l>Met with complaiſant, kind, obliging Air,</l>
+               <l>At their Miſtreſſes Feet their Trophies laid,</l>
+               <l>Who all their Toils with pleaſing Smiles repaid.</l>
+            </lg>
+            <lg>
+               <l>Thus <hi>Cytherea</hi> did on Ida meet</l>
+               <l>The God of War, and with ſoft Kiſſes greet</l>
+               <l>Her Love returning, ſoft'ning by her Charms</l>
+               <l>The dire Remembrance of War's harſh Alarms.</l>
+               <l>Around his Neck her folding Arms ſhe flung,</l>
+               <l>And with uncommon Tranſport on him hung;</l>
+               <l>The tedious Hours ſhe kindly did beguile,</l>
+               <l>Whilſt the glad Hero did forget his Toil;</l>
+               <l>Securely on her downy Breaſt he laid</l>
+               <l>And Homage to her Soveraign Beauty paid.</l>
+            </lg>
+            <lg>
+               <l>Nor could their PRINCE eſcape Love's fatal Dart,</l>
+               <l>Brave tho' his Soul, yet tender was his Heart;</l>
+               <l>He who ſtill got new Triumphs from the Field</l>
+               <l>At Home to Beauty's Power was forc'd to yield:</l>
+               <l>Love to his Heart an eaſie Paſſage found,</l>
+               <l>Sure was the Stroak, tho' pleaſing was the Wound;</l>
+               <l>For Love does ſooneſt generous Minds enſlave,</l>
+               <l>The Vulgar ſcorns, but Captivates the Brave;</l>
+               <l>For whilſt a Nymph with graceful Geſture mov'd,</l>
+               <l>He gaz'd, he ſaw, and ſeeing<note n="*" place="margin">
+                     <hi>Counteſs of</hi> Salis bury.</note> her, he lov'd.</l>
+               <l>The more he ſaw, the more he did admire,</l>
+               <l>Her ev'ry Action fann'd the raging Fire,</l>
+               <l>When on a ſudden on the Ground he 'ſpied</l>
+               <l>An <hi>Azure Ribbon,</hi> which the Nymph had tied</l>
+               <l>Around her Leg; ſtraight he with eager Joys</l>
+               <l>Seizes the welcome, tho' a worthleſs Prize.</l>
+            </lg>
+            <lg>
+               <l>The Nobles ſmil'd to ſee their Monarch ſtoop,</l>
+               <l>So ſmall, ſo mean a Trifle to take up:</l>
+               <l>The Lady, conſcious of the plain diſgrace,</l>
+               <l>With crimſon Bluſhes dy'd her beauteous Face;</l>
+               <l>When ſtraight the<note n="*" place="margin">Edw. <hi>3.</hi>
+                  </note> 
+                  <hi>Monarch</hi> cry'd, <hi>I'le make this Thing</hi>
+               </l>
+               <l>
+                  <hi>A Preſent fitting for the greateſt King,</hi>
+               </l>
+               <l>
+                  <hi>Heroic Souls it only ſhall adorn,</hi>
+               </l>
+               <l>
+                  <hi>And by the braveſt Generals ſhall be worn.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Nor was it giv'n but to the Sons of Fame</l>
+               <l>Who by deſert purchas'd a glorious Name;</l>
+               <l>
+                  <pb n="3" facs="tcp:181560:3"/>
+                  <!-- PDF PAGE 139 -->
+Their Prince true Merit only did regard,</l>
+               <l>And gave to Honour only the reward.</l>
+            </lg>
+            <lg>
+               <l>Not ſo of late, when R—s did receive.</l>
+               <l>The greateſt Gift that <hi>Britain</hi>'s Prince could give;</l>
+               <l>Who with Cabals and cheating Tricks repaid</l>
+               <l>The Sov'reign Honour their Prince had on them laid.</l>
+            </lg>
+            <lg>
+               <l>But <hi>ANNA</hi> does its antient Worth reſtore,</l>
+               <l>Exalt it too 'bove what it was before;</l>
+               <l>Nev'r was it by more Worthy <hi>Patriots</hi> worn,</l>
+               <l>Nor ev'r did braver <hi>Engliſh-men</hi> adorn,</l>
+               <l>Witneſs Great <hi>Beaufort,</hi> whoſe Illuſtrious Birth</l>
+               <l>Is Honour'd by his Virtue and his Worth;</l>
+               <l>Wiſe, Prudent, Noble, Generous and Juſt,</l>
+               <l>Firm to his Country's Intereſt and his Truſt,</l>
+               <l>Whoſe <hi>Loyalty</hi> in ev'ry Act is ſeen</l>
+               <l>A Subject worthy of ſo Great a Queen:</l>
+               <l>And <hi>Oxford,</hi> who ſo bravely has withſtood</l>
+               <l>The baſe Attempts of a curſs'd <hi>Factious Brood;</hi>
+               </l>
+               <l>Did all their <hi>Plots</hi> with prudence undermine,</l>
+               <l>And wiſely blaſt each trayterous Deſign.</l>
+               <l>And <hi>Strafford,</hi> who does zealouſly purſue</l>
+               <l>
+                  <hi>Britain</hi>'s Happineſs and Glory too.</l>
+            </lg>
+            <lg>
+               <l>By ſuch the Garter credit will receive,</l>
+               <l>And all its antient Glory will retrieve:</l>
+               <l>And long may they the Noble Enſign bear,</l>
+               <l>Long, long, the glorious Badge of Honour wear;</l>
+               <l>And Heav'n their Loyal Councils always Bleſs,</l>
+               <l>And crown their Undertakings with Succeſs,</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON: <hi>Printed</hi> Nowcomb <hi>in</hi> Wine-Court, Fleetſtreet, <hi>1713.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
